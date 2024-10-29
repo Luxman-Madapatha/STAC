@@ -1,0 +1,8 @@
+geopandas
+numpy
+pystac-client
+planetary-computer
+rasterio
+shapely
+xarray
+matplotlib
